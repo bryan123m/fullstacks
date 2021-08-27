@@ -1,0 +1,9 @@
+Hola profe ;)
+
+el sitio web aun no se encuentra responsive estoy trabajando en ello pero principal
+es para entregarle la parte del HTML y en Mensajes esta vacio ya que pienso utilizar un 
+APP para la parte de los mensajes.
+
+Gracias y feliz tarde!
+
+ATT: Bryan Muñoz

@@ -1,0 +1,237 @@
+* {
+    margin: 0;
+    font-family: Louis George Café;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    margin: 2rem 1rem;
+    font-size: 1.5rem;
+}
+
+#lista2 {
+    margin: 2rem 1rem 1rem 18rem;
+}
+
+li img {
+    max-width: 80%;
+}
+
+#lista {
+    float: left;
+    margin: 1rem;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #55008D;
+    opacity: 0.2;
+}
+
+.active {
+    background-color: #55008D;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 1.7rem;
+}
+
+header div {
+    background-image: url(imagen_header.png);
+    max-width: 100%;
+    height: 50rem;
+}
+
+header p {
+    font-size: 2rem;
+}
+
+header section {
+    background-color: #FFFFFF;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    margin: 6rem 0;
+    padding: 5rem;
+    width: 40%;
+    opacity: 0.8;
+}
+
+#texto {
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+header section p {
+    padding: 2rem 0;
+}
+
+#ultimos {
+    text-align: center;
+    padding: 1rem;
+}
+
+#loquehacemos {
+    padding: 6rem;
+    overflow: hidden;
+}
+
+#loquehacemos .item {
+    width: 26%;
+    height: 30rem;
+    padding: 2rem;
+    margin: 2rem;
+    float: left;
+    text-align: center;
+    padding: 1rem;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    background-color: #505F99;
+    max-height: 20%;
+}
+
+#loquehacemos {
+    background-color: #2A3950;
+    margin: 2rem 5rem 2rem 5rem;
+    color: white;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+
+#loquehacemos section p {
+    text-align: left;
+    padding: 1rem;
+}
+
+#fases {
+    background-image: url(fases.png);
+    background-repeat: no-repeat;
+}
+
+#fases h3 {
+    margin: 0 0 1rem 0;
+    color: #55008D;
+}
+
+.fases {
+    padding: 5rem 10rem;
+    float: right;
+    width: 20%;
+    font-size: 1.3rem;
+}
+
+#captura h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#captura {
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    margin: 6rem 0;
+    padding: 5rem;
+    width: 70%;
+    height: 17rem;
+    background-color: #6D7993;
+    margin: auto;
+}
+
+#sectionimg {
+    padding: 5rem 10rem;
+    display: flex;
+    margin: 0 15%;
+}
+
+#sectionimg p {
+    text-align: center;
+    display: grid;
+    padding: 0 2rem;
+    font-size: 1rem;
+}
+
+input {
+    background-color: #A163F7;
+    display: flex;
+    margin: auto;
+    border: none;
+    color: white;
+    padding: 10px 26px;
+    text-decoration: none;
+    cursor: pointer;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+#fases input {
+    display: flex;
+    margin: auto;
+    background-color: #400929;
+    font-size: 1.5rem;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    cursor: pointer;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+#proyectos {
+    margin-top: 2rem;
+}
+
+#imagenfoto {
+    max-width: 45.2%;
+}
+
+footer p {
+    padding: 0.2rem;
+}
+
+footer {
+    background-color: #363535;
+    color: white;
+}
+
+footer img {
+    max-width: 15%;
+}
+
+footer section {
+    float: left;
+    width: 12%;
+    padding: 2rem 6rem;
+    text-align: center;
+}
+
+#redes {
+    text-align: inherit;
+}
+
+#centrarR {
+    text-align: center;
+}
+
+#derechos {
+    margin-top: 15rem;
+    text-align: center;
+    background-color: #191717;
+    padding: 1rem;
+}

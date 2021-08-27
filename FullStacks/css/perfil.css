@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    font-family: Louis George Café;
+}
+
+body {
+    background-color: #D5D5D5;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    margin: 2rem 1rem;
+    font-size: 1.5rem;
+}
+
+#lista2 {
+    margin: 2rem 1rem 1rem 18rem;
+}
+
+li img {
+    max-width: 80%;
+}
+
+#lista {
+    float: left;
+    margin: 1rem;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 0.7rem;
+}
+
+li a:hover:not(.active) {
+    background-color: #55008D;
+    opacity: 0.2;
+}
+
+.active {
+    background-color: #55008D;
+}
+
+#imagenperfil {
+    max-width: 50%;
+    display: block;
+    margin: auto;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+}
+
+h1 {
+    padding-top: 3rem;
+}
+
+header div {
+    padding: 0 20%;
+}
+
+header div img {
+    float: left;
+}
+
+#proyectos img {
+    max-width: 40%;
+    padding: 1rem 4rem;
+    float: right;
+}
+
+#proyecto {
+    margin-top: 10rem;
+    text-align: center;
+}
+
+footer p {
+    padding: 0.2rem;
+}
+
+footer {
+    margin: 104rem 0 0 0;
+    background-color: #363535;
+    color: white;
+}
+
+footer img {
+    max-width: 15%;
+}
+
+footer section {
+    float: left;
+    width: 12%;
+    padding: 2rem 5rem;
+    text-align: center;
+}
+
+#redes {
+    text-align: inherit;
+}
+
+#centrarR {
+    text-align: center;
+}
+
+#derechos {
+    margin-top: 13rem;
+    text-align: center;
+    background-color: #191717;
+    padding: 1rem;
+}
